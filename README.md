@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vinda ao meu perfil 💗
 
-<!--
-**emanuelamilanez/emanuelamilanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e emanuela
 
-Here are some ideas to get you started:
+- estou estudano na [Alura](https://www.alura.com.br)
+- estou me deesenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 📫
+
+emanuela.milanez@escola.pr.gov.br
+
+
+
+![](https://media.tenor.com/mXgVRO2zbRoAAAAd/pica-pau.gif)
